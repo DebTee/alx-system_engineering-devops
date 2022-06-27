@@ -1,2 +1,2 @@
-#!/bin/basg
-rev <<<"input"
+#!/bin/bash
+rev
